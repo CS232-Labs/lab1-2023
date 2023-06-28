@@ -1,0 +1,5 @@
+Digital
+
+POM-Version:       1.0-SNAPSHOT
+Build Git Version: v0.29-67-gcb26570-dirty
+Build Time:        2023-01-13 14:18
