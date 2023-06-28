@@ -62,4 +62,4 @@ Note: RGB-LED must start with white. Clock must be set to real time with frequen
 - 3 points for any working solution
 - 0 for any other case
 
-## Submission Instruction
+## Submission Instructions
