@@ -12,14 +12,29 @@
 1. Create a combinatorial circuit to map the output of the 2-bit counter to the control pins of the 7-edge display
     - Replace the 2bitdisplay_component with your combinatorial circuit
     - Construct the other components i.e, input, clock, counter and display as shown in the image
-2. The final file (q1.dig) must contain the full circuit
+2. The final file must contain the full circuit
 3. You are allowed to use the counter, splitter and 7-edge display components available in the tool
 4. Use only the NOT gate and 2-input AND,OR,NAND,NOR,XOR gates
+5. Save the final file as `q1.dig`
 
-Note: Display should start with 0. Clock should be set to real time with frequency of 1Hz.
+Note: Display must start with 0. Clock must be set to real time with frequency of 1Hz.
 
 ![](misc/q1.gif)
 
 ### Grading Policy
 - 2 points for a complete working solution
 - 0 points for the rest
+
+## Q2 (3 points)
+
+1. Create a counter whose output varies as follows: 1->2->1->3->1->4 and repeat
+2. You are allowed to use at most 3 D-Flip flops and NOT gate along with any 2-input logic gates
+3. Connect this counter with the display made for the previous problem
+4. Save the final file as `q2.dig`
+
+Note: Display must start with 1, the proceed to 2. Clock must be set to real time with frequency of 1Hz.
+
+### Grading Policy
+- 3 points for a complete working solution
+- 0 points for the rest
+
