@@ -38,3 +38,28 @@ Note: Display must start with 1, the proceed to 2. Clock must be set to real tim
 - 3 points for a complete working solution
 - 0 points for the rest
 
+## Q3 (5 points)
+1. Implement a RGB light switching system which follows following sequence of colors:
+    1. White (R+G+B)
+    2. Blue (B)
+    3. Sky Blue (G+B)
+    4. Red (R)
+    5. Violet (R+B)
+    6. Yellow (R+G)
+    7. Green (G)
+2. Above sequence should be followed on repeat
+3. You are allowed to use 3 D-flip flops along with NOT gate and any 3 2-input logic gates and RGB-LED component (see IO section)
+4. Save the final file as `q3.dig`
+
+You don't even need a NOT gate :)
+
+Note: RGB-LED must start with white. Clock must be set to real time with frequency of 1Hz.
+
+![](misc/q3.gif)
+
+### Grading Policy
+- Full 5 points for <4 2-input logic gates used
+- 3 points for any working solution
+- 0 for any other case
+
+## Submission Instruction
