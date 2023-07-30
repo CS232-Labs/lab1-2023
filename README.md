@@ -28,7 +28,7 @@ Note: Display must start with 0. Clock must be set to real time with frequency o
 ## Q2 (3 points)
 
 1. Create a counter whose output varies as follows: 1->2->1->3->1->4 and repeat
-2. You are allowed to use at most 3 D-Flip flops and NOT gate along with any 2-input logic gates
+2. You are allowed to use at most 3 D-Flip flops and NOT gate(s) along with any number of 2-input logic gates
 3. Connect this counter with the display made for the previous problem
 4. Save the final file as `q2.dig`
 
@@ -48,7 +48,7 @@ Note: Display must start with 1, the proceed to 2. Clock must be set to real tim
     6. Yellow (R+G)
     7. Green (G)
 2. Above sequence should be followed on repeat
-3. You are allowed to use 3 D-flip flops along with NOT gate and any 3 2-input logic gates and RGB-LED component (see IO section)
+3. You are allowed to use 3 D-flip flops along with a single NOT gate and any 3 2-input logic gates and RGB-LED component (see IO section)
 4. Save the final file as `q3.dig`
 
 You don't even need a NOT gate :)
