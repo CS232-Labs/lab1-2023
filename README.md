@@ -58,7 +58,7 @@ Note: RGB-LED must start with white. Clock must be set to real time with frequen
 ![](misc/q3.gif)
 
 ### Grading Policy
-- Full 5 points for <4 2-input logic gates used
+- Full 5 points for <4 2-input logic gates and atmost 1 NOT gate used
 - 3 points for any working solution
 - 0 for any other case
 
