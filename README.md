@@ -67,6 +67,6 @@ Submit the files `q1.dig`, `q2.dig`, `q3.dig` on [BodhiTree](https://flamingo.bo
 
 Note: Incorrect submission will lead to 0 marks
 
-### Deadline : 23:59, August 26, 2023
+### Deadline : 23:59, August 27, 2023
 
 For late submission, 10% penalty will be levied per day
