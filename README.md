@@ -42,9 +42,9 @@ Note: Display must start with 1, the proceed to 2. Clock must be set to real tim
 1. Implement a RGB light switching system which follows following sequence of colors:
     1. White (R+G+B)
     2. Blue (B)
-    3. Sky Blue (G+B)
+    3. Sky Blue/Cyan (G+B)
     4. Red (R)
-    5. Violet (R+B)
+    5. Purple/Magenta (R+B)
     6. Yellow (R+G)
     7. Green (G)
 2. Above sequence should be followed on repeat
