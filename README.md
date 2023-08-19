@@ -27,10 +27,12 @@ Note: Display must start with 0. Clock must be set to real time with frequency o
 
 ## Q2 (3 points)
 
-1. Create a counter whose output varies as follows: 1->2->1->3->1->4 and repeat
+1. Create a counter and whose output varies as follows: 1->2->1->3->1->4 and repeat
 2. You are allowed to use at most 3 D-Flip flops and NOT gate(s) along with any number of 2-input logic gates
 3. Connect this counter with the display made for the previous problem
 4. Save the final file as `q2.dig`
+
+Update: Only the display should show the specified output. Underlying bits of counter can be anything. Every number should only be displayed for 1 clock cycle and then switch to next number.
 
 Note: Display must start with 1, the proceed to 2. Clock must be set to real time with frequency of 1Hz.
 
@@ -52,6 +54,8 @@ Note: Display must start with 1, the proceed to 2. Clock must be set to real tim
 4. Save the final file as `q3.dig`
 
 You don't even need a NOT gate :)
+
+Update: Each color should only be displayed for 1 clock cycle and then switch to next color.
 
 Note: RGB-LED must start with white. Clock must be set to real time with frequency of 1Hz.
 
